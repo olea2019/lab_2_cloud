@@ -1,0 +1,22 @@
+{
+  "name": "lab_2_cloud",
+  "version": "1.0.0",
+  "description": "lucru individual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olea2019/lab_2_cloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olea2019/lab_2_cloud/issues"
+  },
+  "homepage": "https://github.com/olea2019/lab_2_cloud#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
