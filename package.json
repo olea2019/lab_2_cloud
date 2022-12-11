@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/olea2019/lab_2_cloud#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
